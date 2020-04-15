@@ -1,8 +1,32 @@
-# CryptoUtility(V1.0)
+# CryptoUtility(V2.0)
 
 Download: link：https://pan.baidu.com/s/1O_t3tCLDltr8XIshB6azHQ  password：sez1 
 
+​			   http://esctech.cn/wp-content/uploads/2020/04/Crypto%20UtilityV2.0.zip
+
 This is a crypto utility which implements various algorithms and protocols.
+
+Add below functions for V2.0
+
+##### Support SM2
+
+Encrypt/decrypt based on p256 curve
+
+Generate signature/Verify signature based on p256 curve
+
+##### Support SM3
+
+##### Support SM4
+
+Encrypt/Decrypt(ECB mode and CBC mode)
+
+##### Support X509
+
+Parse X.509 certificate
+
+Convert X.509 certificate format
+
+# CryptoUtility(V1.0)
 
 ##### Input format: 
 
@@ -35,10 +59,6 @@ This is a crypto utility which implements various algorithms and protocols.
 ##### MAC:
 
 ​	Support CMAC-AES128, CMAC-AES192, CMAC-AES256, HMAC-MD5, HMAC-SHA1, HMAC-SHA224, HMAC-SHA256, HMAC-SHA384, HMAC-SHA512
-
-##### X509:
-
-​	pending
 
 ##### Key process:
 
